@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **[ankitlodhi546@gmail.com](mailto:ankitlodhi546@gmail.com)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ankesh-lodhi/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__xx_silent_boy_xx__/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankitlodhi546@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ankesh-lodhi/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__xx_silent_boy_xx___/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankitlodhi546@gmail.com)
 
 <!-- Snake Game Repo View -->
 

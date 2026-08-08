@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Ankit Lodhi
+# 💫 Hi 👋, I'm Ankesh Lodhi
 
 **A passionate Full-Stack Web Developer || C++ & DSA Enthusiast from India 🇮🇳**
 
